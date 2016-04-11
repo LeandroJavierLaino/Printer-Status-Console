@@ -1,1 +1,1 @@
-
+Se trata de una pequeña consola de monitoreo de impresoras (Ricoh), de un cliente. Se trata de un pequeño menu donde se selecciona una de las impresoras, para ver el estado de tinta, si tiene algun alerta o si necesita alguna modificación en su configuración.
